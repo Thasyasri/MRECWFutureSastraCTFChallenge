@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+}
+
+header {
+    background: #1e1e2f;
+    color: white;
+    padding: 20px;
+}
+
+/* Debug note: Developers keep forgetting to clean /hidden/ directories */
